@@ -2010,7 +2010,7 @@ chatbot-body .author {
 }
 
 /* Social Media & Newsletter */
-/* .social-media .social-icons {
+.social-media .social-icons {
   display: flex;
   gap: 15px;
 }
@@ -2053,7 +2053,7 @@ chatbot-body .author {
 
 .social-icon:hover::before {
   opacity: 1; 
-} */
+}
 
 
   .chatbot-button {
